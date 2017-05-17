@@ -5,7 +5,7 @@
 * Projektperiode: august 2016 - juni 2019
 
 
-# Slutrapportering (projektleder)
+# Slutrapportering: "Videre med WordPress"
 
 ## a. Samlet rapportering inkl. literature review
 
