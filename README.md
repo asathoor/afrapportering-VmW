@@ -7,9 +7,9 @@ Projektperiode: august 2016 - juni 2019
 
 1. Udformning af slutrapportering (projektleder)
 
- a. Samlet rapportering inkl. literature review
- b. Landkort
- c. Business case
+a. Samlet rapportering inkl. literature review
+b. Landkort
+c. Business case
 
 2. Projektregnskab (Ulla)
 3. Projektafslutningsmøde
