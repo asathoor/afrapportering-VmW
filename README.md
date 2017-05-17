@@ -34,5 +34,5 @@ virksomheder og kolleger i projektet
 
 ## Manuskript
 
-## 8. Litteraturliste
+# 8. Kilder
 
